@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/all.css">
+    <title>Sai Teja Profile</title>
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body onload="loader()">
+    <div id="Loading"></div>
+     <!-----start Hearder section-----> 
+     <div id="hearder"  data-aos="fade-up"
+     data-aos-anchor-placement="top-bottom"> 
+        <div class="contenier">
+            <nav >
+                <img src="SAI TEJA LOGO.jpg" alt="logo" class="logo" data-aos="zoom-in">
+                <ul id="sidmenu" data-aos="zoom-in">
+                    <li><a href="#hearder" >Home</a></li>
+                    <li><a href="#about" >About</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#portfolio" >Projects</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                    <i class="fa-solid fa-xmark" onclick="closemenu()"></i>
+                 </ul>
+                 <i class="fa-solid fa-bars" onclick="openmenu()"></i>
+              </nav> 
+              <div class="hearder-text"  data-aos="fade-right"
+              data-aos-offset="300"
+              data-aos-easing="ease-in-sine">
+                <p>Full Stack Developer</p>
+                <h1>Hi I am <span>Sai Teja Rachamalla</span> <br> From India</h1>
+              </div>       
+            </div>
+        </div>
+     </div>
+      <!-----End Hearder section----->
+
+
+      <!-----start About section----->
+      <div id="about"data-aos="fade-up"
+      data-aos-anchor-placement="center-bottom">
+        <div class="contenier">
+            <div class="row">
+                <div class="about-col-1">
+                  <img src="SAI TEJA PHOTO .jpg" data-aos="zoom-in" >  
+                </div>
+                <div class="about-col-2" data-aos="zoom-in">
+                    <h1 class="sub-title">About Me</h1>
+                    <p>Hi I am Sai Teja.I am from Hyderabad,Telangana.</p>
+                   <div class="tab-titles" data-aos="fade-left">
+                    <p class="tab-links" onclick="opentab('education')">Education</p>
+                    <p class="tab-links active-link " onclick="opentab('skills')">Skills</p>
+                    <p class="tab-links" onclick="opentab('experience')">Experience</p>
+                   </div>
+                   <div class="tab-contents active-tab" id="skills" data-aos="zoom-in">
+                    <ul>
+                        <li><span>Competitive programming and Web Development</span><br>HTML, CSS, JavaScript, Java(Core And Advance), SQL</li>
+                   </div>
+                   <div class="tab-contents" id="experience" >
+                    <ul>
+                        <li><span>2024</span><br>Web Developer (Fresher)</li>
+                    </ul>
+                   </div>
+                   <div class="tab-contents" id="education">
+                    <ul>
+                        <li><span>Computer Science Engineering</span><br>Planning to join Bachlores Of Technology</li>
+                        <li><span>Intermediate</span><br>Completed +12 (MPC) in MJPTBCWRJC-KKP(B) - Scored 842/1000 </li>
+                        <li><span>Class 10th Graduation</span><br>Passed 10th in 2021 From Sree Vidya Mandir High School<br></li>
+                    </ul>
+                   </div>
+                </div>
+            </div>
+        </div>
+      </div>
+      <!-----End About section----->
+
+
+
+
+      <!-----Service section Start----->
+     <div id="services" data-aos="fade-up"
+     data-aos-anchor-placement="top-center">
+        <div class="contenier" >
+            <h1 class="sub-title">My Services</h1>
+            <div class="services-list">
+                <div data-aos="fade-right">
+                    <img src="web developer.jpg">
+                    <h2>Full-Stack Web Developer(Manageable)</h2>
+                    <p>Web Site/App Development</p>
+                    <a href="https://en.wikipedia.org/wiki/Web_development">Learn More</a>
+                </div>
+                <div data-aos="flip-up">
+                    <img src="web and ai.jpg" >
+                    <h2>Web & AI Developer</h2>
+                    <p>Be where the world is going.</p>
+                    <a href="https://en.wikipedia.org/wiki/Web_intelligence">Learn More</a>
+                </div>
+                <div data-aos="fade-left">
+                    <img src="carrer and guidence.jpg" >
+                    <h2>Carrer Guidence</h2>
+                    <p>Make people smile by helping in achieving their goals.</p>
+                    <a href="https://en.wikipedia.org/wiki/Career">Learn More</a>
+                </div>
+
+            </div>
+
+        </div>
+     </div>
+      <!----services section end ----->
+
+
+        <!----portfolio section Start ----->
+
+        <div id="portfolio">
+            <div class="contenier">
+                <h1 class="sub-title">My Repositories</h1>
+                <p>My Projects and source code are available here.Copy-rights reserved.Give me credits of copying source codes or face consequences raised by copy-rights.Do not mis-use source code or resell</p>
+                <div class="work-list" >
+                    <div class="work" data-aos="zoom-in">
+                        <img src="img/Portfolio2.png" >
+                        <div class="layer">
+                            <h3>E-Learning Web App (Prototype)</h3>
+                            <p>An e-learning web application is a digital platform designed to deliver, manage, and track educational content and activities online, facilitating remote learning and interactive educational experiences.</p>
+                            <a target="_blank"  href=""><i class="fa-solid fa-up-right-from-square"></i></a>
+                        </div>
+                        
+                    </div>
+                    <div class="work" data-aos="zoom-in">
+                        <img src="img/Portfolio3.png" >
+                        <div class="layer">
+                            <h3>E - Commerce ( Prototype )</h3>
+                            <p>An e-commerce web application is a digital platform that enables businesses and individuals to buy, sell, and manage products or services online, providing features for transactions, inventory management, and customer engagement.</p>
+                            <a target="_blank"  href=""><i class="fa-solid fa-up-right-from-square"></i></a>
+                        </div>
+                        
+                    </div>
+                    <div class="work" data-aos="zoom-in">
+                        <img src="img/Portfolio4.png" >
+                        <div class="layer">
+                            <h3>Ride</h3>
+                            <p>A car and bike pooling web application is a platform that connects users for shared transportation, allowing individuals to coordinate and share rides, reduce travel costs, and decrease environmental impact.</p>
+                            <a target="_blank"  href=""><i class="fa-solid fa-up-right-from-square"></i></a>
+                        </div>
+                        
+                    </div>
+                  
+                </div>
+                <a href="https://en.wikipedia.org/wiki/Repository" class="btn">Learn More</a>
+
+            </div>
+        </div>
+         <!----portfolio section End ----->
+
+
+          <!----Contact section Start ----->
+          <div id="contact"  >
+            <div class="contenier">
+                <div class="row">
+                    <div class="contact-left"  data-aos="fade-up-right">
+                        <h1 class="sub-title">Contact Me</h1>
+                        <p><i class="fa-solid fa-paper-plane"></i>rachamallasaiteja2005@gmail.com</p>
+                        <p><i class="fa-solid fa-square-phone-flip"></i>+91 8919908122</p>
+                        <div class="social-icons" data-aos="zoom-in">
+            
+                            <a target="_blank" class="instagram" href="insta not available.jpeg"><i class="fa-brands fa-instagram"></i></a>
+                            <a target="_blank" class="github" href="https://github.com/Sai-teja-rachamalla"><i class="fa-brands fa-github"></i></a>
+                            <a target="_blank" class="linkedin" href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"><i class="fa-brands fa-linkedin"></i></a>
+                        </div>
+                        <a href="Sai Teja Resume.docx" class="btn btn2">View Resume</a>
+
+                    </div>
+                    <div class="contact-right" data-aos="fade-up-left">
+                        <form >
+                            <input type="text" name="Name" placeholder="Sai Teja Rachamalla" required>
+                            <input type="Email" name="Email" placeholder="rachamallasaiteja2005@gmail.com" required>
+                            <textarea name="massage" rows="6" placeholder="Contact me for business +91-8919908122"></textarea>
+                            <button type="submit" class="btn btn2">Submit</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="copyright">
+                <p>Copyright &copy; 2024 Website Developed/Re-Build By <span style="color: rgb(224, 44, 44);">Sai Teja Rachamalla</span></p>
+            </div>
+          </div>
+   
+          <!----Contact section End ----->
+          <script>
+            var preloader = document.getElementById("Loading");
+            function loader(){
+              preloader.style.display = 'none';
+            }
+          </script>
+  
+      <script>
+        var tablinks = document.getElementsByClassName("tab-links");
+        var tabcontents = document.getElementsByClassName("tab-contents");
+        function opentab(tabname){
+            for(tablink of tablinks){
+                tablink.classList.remove("active-link");
+            }
+            for(tabcontent of tabcontents){
+                tabcontent.classList.remove("active-tab");
+            }
+            event.currentTarget.classList.add("active-link");
+            document.getElementById(tabname).classList.add("active-tab");
+        }
+        
+      </script>
+      
+    <!-- aos data  -->
+      <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+      <script>
+        AOS.init({
+          duration: 900,
+        });
+      </script>
+    <script>
+        var sidmenu = document.getElementById("sidmenu");
+        function openmenu(){
+            sidmenu.style.right ="0";
+        }
+        function closemenu(){
+            sidmenu.style.right ="-200px";
+        }
+    </script>
+</body>
+</html>
