@@ -6,7 +6,7 @@
 About :
 
 
-Hi, my name is Sai Teja Rachamalla. I recently completed my intermediate education in the MPC stream from MJPTBCWRJC Kukatpally with a score of 842/1000, and my SSC from Sree Vidya Mandir High School with a 9.5 GPA. I am planning to join a B.Tech program soon.
+Hi, my name is Sai Teja Rachamalla. I recently completed my intermediate education in the MPC stream from MJPTBCWRJC Kukatpally with a score of, and my SSC from Sree Vidya Mandir High School. I am planning to join a B.Tech program soon.(01-08-2024)
 
 I have built my portfolio website and am currently working on an e-learning webpage and an e-commerce webpage. 
 
