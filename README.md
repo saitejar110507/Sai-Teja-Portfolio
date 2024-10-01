@@ -1,6 +1,6 @@
 # Sai Teja Portfolio Web Page
 
-#Link : https://saitejar110507.github.io/Sai-Teja/
+#Link : https://saitejar110507.github.io/Sai-Teja-Portfolio/
 
 
 About :
