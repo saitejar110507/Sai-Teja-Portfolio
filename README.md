@@ -2,31 +2,41 @@
 
 #Link : https://saitejar110507.github.io/Sai-Teja-Portfolio/
 
-Welcome to My GitHub!
+👋 Welcome to my Github
 
-Hi, I’m Sai Teja Rachamalla, an aspiring Java Full Stack Developer and Computer Science (AI) student at Methodist College of Engineering and Technology (2024-2028). My GitHub is where I showcase my journey in software development, share projects, and collaborate with other tech enthusiasts.
+About Me :
 
-💻 What I Do
+Hi, I’m Sai Teja Rachamalla, an aspiring Java Full Stack Developer and a Computer Science (Artificial Intelligence) student. I’m passionate about solving real-world problems through technology and building innovative solutions.
 
-Languages: Java (Core & Advanced), JavaScript, HTML, CSS, SQL
+💻 Skills
 
-Tools & Skills: Front-End Development, Back-End Development, Relational Databases, and Responsive Web Design
+Languages: Java (Core & Advanced) ☕, JavaScript ⚡, HTML & CSS 🎨, SQL 🗂️
 
-Projects:
-
-E-Learning Web App: A responsive prototype featuring user registration, dashboards, and course management.
-
-Personal Portfolio Website: A simple, responsive page showcasing my professional journey and skills.
+Tools & Expertise: Full-Stack Web Development, Responsive Design, Relational Databases
 
 
+🌟 Projects
 
-🌟 Current Goals
+1. E-Learning Web App Prototype
 
-Building more open-source contributions and working on projects that solve real-world problems.
-
-Exploring advancements in Artificial Intelligence, Machine Learning, and web technologies.
+A responsive platform featuring user registration, interactive dashboards, and course management.
 
 
-🚀 Let’s Collaborate!
 
-I’m always eager to connect with other developers and contribute to exciting projects. Feel free to check out my repositories, fork a project, or reach out for collaboration!
+2. Personal Portfolio Website
+
+A simple, responsive webpage showcasing my professional journey, skills, and projects.
+
+
+
+
+🚀 Current Focus
+
+🌱 Enhancing my skills by contributing to open-source projects.
+
+🔍 Exploring Artificial Intelligence, Machine Learning, and modern web technologies.
+
+
+🤝 Let’s Connect
+
+Feel free to check out my repositories to explore my work or reach out for collaboration. Let’s build something great together!
