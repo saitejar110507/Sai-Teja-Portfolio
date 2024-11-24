@@ -2,14 +2,31 @@
 
 #Link : https://saitejar110507.github.io/Sai-Teja-Portfolio/
 
+Welcome to My GitHub!
 
-About :
+Hi, I’m Sai Teja Rachamalla, an aspiring Java Full Stack Developer and Computer Science (AI) student at Methodist College of Engineering and Technology (2024-2028). My GitHub is where I showcase my journey in software development, share projects, and collaborate with other tech enthusiasts.
+
+💻 What I Do
+
+Languages: Java (Core & Advanced), JavaScript, HTML, CSS, SQL
+
+Tools & Skills: Front-End Development, Back-End Development, Relational Databases, and Responsive Web Design
+
+Projects:
+
+E-Learning Web App: A responsive prototype featuring user registration, dashboards, and course management.
+
+Personal Portfolio Website: A simple, responsive page showcasing my professional journey and skills.
 
 
-Hi, my name is Sai Teja Rachamalla. I recently completed my intermediate education in the MPC stream from MJPTBCWRJC Kukatpally with a score of, and my SSC from Sree Vidya Mandir High School. I am planning to join a B.Tech program soon.(01-08-2024)
 
-I have built my portfolio website and am currently working on an e-learning webpage and an e-commerce webpage. 
+🌟 Current Goals
 
-My technical skills include HTML, CSS, and a bit of JavaScript. I am currently learning Java and SQL.My hobbies include reading books, drawing, cycling, solving Sudoku and puzzles, and staying updated on emerging technologies. I contribute to open-source projects and explore artificial intelligence and machine learning.
+Building more open-source contributions and working on projects that solve real-world problems.
 
-I am known for my decision-making, critical thinking, and team collaboration skills. My aspiration is to become an IT expert and make people's work easier. Originally from Nagar Kurnool, I now reside in Hyderabad with my nuclear family.
+Exploring advancements in Artificial Intelligence, Machine Learning, and web technologies.
+
+
+🚀 Let’s Collaborate!
+
+I’m always eager to connect with other developers and contribute to exciting projects. Feel free to check out my repositories, fork a project, or reach out for collaboration!
