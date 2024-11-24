@@ -4,7 +4,7 @@
 
 👋 Welcome to my Github
 
-About Me :
+About Me
 
 Hi, I’m Sai Teja Rachamalla, an aspiring Java Full Stack Developer and a Computer Science (Artificial Intelligence) student. I’m passionate about solving real-world problems through technology and building innovative solutions.
 
