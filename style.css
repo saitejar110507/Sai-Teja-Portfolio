@@ -146,10 +146,10 @@ nav ul li a:hover::after{
 
 
 /*----------------start service section -------------*/
-#services{
+#services {
     padding: 30px 0;
     background: #074751;
-    
+    overflow: hidden; /* Prevents overflow of images and text */
 }
 #services .contenier{
     text-align: center;
@@ -174,8 +174,10 @@ nav ul li a:hover::after{
     transition: background 0.5s, transform 0.5s;
 
 }
-.services-list div img{
+.services-list div img {
     margin-bottom: 30px;
+    max-width: 100%; /* Ensures the image scales properly */
+    height: auto;    /* Ensures the height scales proportionally */
 }
 .services-list div h2{
     font-size: 30px;
