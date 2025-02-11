@@ -40,3 +40,4 @@ Designed a responsive page showcasing my skills, projects, and professional jour
 🤝 Let’s Connect!
 
 Check out my repositories to see what I’m working on. Feel free to fork, star, or collaborate on any project that catches your interest. Let’s create something awesome together!
+
