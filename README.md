@@ -4,16 +4,17 @@
 
 ## 👋 Welcome to My GitHub!  
 
-I’m **Sai Teja Rachamalla**, an aspiring **Java Full Stack Developer** and a **Computer Science (Artificial Intelligence) student**. Passionate about **coding, problem-solving, and building impactful solutions**.  
+I am **Sai Teja Rachamalla**, a passionate **Java Full Stack Developer** and **Computer Science (Artificial Intelligence) student**. I love **coding, problem-solving, and building impactful solutions** that make a difference.  
 
 ---
 
 ## 💻 About Me  
 
 ### 🌟 Languages & Technologies:  
-- **Java ☕ | JavaScript ⚡ | HTML & CSS 🎨 | SQL 🗂️**  
+- **Java ☕ | JavaScript ⚡ | HTML & CSS 🎨 | SQL 🗂️ | Spring Boot 🏗️ | React.js ⚛️ | Node.js 🌐**  
+- Familiar with **Git, Docker, and cloud technologies**.  
 
-### 🎯 Interests & Focus Areas:  
+### 🎯 Areas of Interest:  
 - **Full-Stack Development**  
 - **Responsive Web Design**  
 - **Artificial Intelligence & Machine Learning**  
@@ -23,28 +24,25 @@ I’m **Sai Teja Rachamalla**, an aspiring **Java Full Stack Developer** and a *
 
 ## 🛠️ Featured Projects  
 
-### 📌 **1. E-Learning Web App Prototype**  
-- Built a **responsive platform** with **user registration, interactive dashboards, and course management**.  
-- Technologies Used: **HTML, CSS, JavaScript, SQL**  
-
-### 📌 **2. Personal Portfolio Website**  
-- Developed a **modern and responsive** portfolio to showcase **my skills, projects, and professional journey**.  
-- Technologies Used: **HTML, CSS, JavaScript**  
+### 📌 **Personal Portfolio Website**  
+- Created a **modern, responsive portfolio** to showcase my **skills, projects, and professional journey**.  
+- **Technologies Used:** HTML, CSS, JavaScript  
+- 🔗 [Live Demo](https://saitejar110507.github.io/Sai-Teja-Portfolio/)  
 
 ---
 
-## 🌱 What I’m Up To  
+## 🌱 Current Focus  
 
 - 📖 **Contributing to Open-Source Projects**  
 - 🤖 **Exploring AI & Machine Learning**  
-- 🚀 **Sharpening my Full-Stack Development skills**  
+- 🚀 **Enhancing my Full-Stack Development expertise**  
 
 ---
 
 ## 🤝 Let’s Connect!  
 
-Check out my repositories and feel free to **fork, star, or collaborate** on any project that interests you!  
-Let’s **build something amazing together!** 🚀  
+Explore my GitHub repositories, and let’s collaborate on exciting projects!  
+Feel free to **fork, star, or contribute** to any project that interests you. Let’s build something amazing together! 🚀  
 
 ---
 
